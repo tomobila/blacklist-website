@@ -1062,7 +1062,7 @@ svg {
 }
 
 svg :not([fill=none]) {
-    fill: currentColor
+    /* fill: currentColor */
 }
 
 .uc-offcanvas-bar .uc-link:hover,
